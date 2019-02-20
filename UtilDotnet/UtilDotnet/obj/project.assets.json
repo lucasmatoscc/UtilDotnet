@@ -185,11 +185,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Influir\\source\\repos\\UtilDotnet\\UtilDotnet\\UtilDotnet.csproj",
-      "projectName": "UtilDotnet",
-      "projectPath": "C:\\Users\\Influir\\source\\repos\\UtilDotnet\\UtilDotnet\\UtilDotnet.csproj",
+      "projectUniqueName": "C:\\Users\\Influir\\Documents\\GitHub\\UtilDotnet\\UtilDotnet\\UtilDotnet\\UtilDotnet.csproj",
+      "projectName": "UtilidadesDotnet",
+      "projectPath": "C:\\Users\\Influir\\Documents\\GitHub\\UtilDotnet\\UtilDotnet\\UtilDotnet\\UtilDotnet.csproj",
       "packagesPath": "C:\\Users\\Influir\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Influir\\source\\repos\\UtilDotnet\\UtilDotnet\\obj\\",
+      "outputPath": "C:\\Users\\Influir\\Documents\\GitHub\\UtilDotnet\\UtilDotnet\\UtilDotnet\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",
