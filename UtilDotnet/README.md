@@ -1,5 +1,10 @@
 # Funcionalidades
 
+ Para utilizar é só importar a dll no projeto:
+ ``` C#
+ import 'package:util_data_table_package/utilDataTable.dart';
+ ```
+
 Enviar e-mail:
 
 ``` C#
